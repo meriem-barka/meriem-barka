@@ -37,8 +37,7 @@ Durant ma formation je verais les competences suivante
 
 ### Backend  
 <div align="center">   
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /> 
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /> 
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />   
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
@@ -55,17 +54,12 @@ Durant ma formation je verais les competences suivante
 
 ### framework 
 <div align="center">  
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/Angular-original-Angular.svg" alt="Angular" height="50" />  
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Vue.js" height="50" />  
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />   
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+ <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/symfony-original-wordmark.svg" alt="symfony" height="50" />  
 </div>
 
-
-Angular, Vue.js, React
+</td><td valign="top" width="33%">
+ 
 Analytics, Piwik
 PageSpeed insights, WebPageTest
 tests unitaires, tests système, tests d’acceptation
