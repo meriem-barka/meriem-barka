@@ -2,7 +2,7 @@
 
 
 
-### <div> Je m'appelle Meriem , 👾 je suis une développeuse full-stack en herbe 👨‍💻🚀 et basée à Marseille </div>  
+### <div> Je m'appelle Meriem , 👾 je suis une développeuse full-stack en herbe 👨‍💻🚀 et basée à Marseille. Je suis a la rechereche d'une Alternance pour faire un MSc IT & Business </div>  
 
 
 <div>
