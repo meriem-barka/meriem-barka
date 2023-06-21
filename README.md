@@ -7,7 +7,7 @@
 
 <div>
  Passionnée par le développement, j'explore les différentes facettes du développement web pour concevoir des solutions créatives et fonctionnelles. 
- Ma curiosité    insatiable me pousse à apprendre en permanence de nouvelles technologies et à relever des défis passionnants. 
+ Ma curiosité insatiable me pousse à apprendre en permanence de nouvelles technologies et à relever des défis passionnants. 
  J'apprécie particulièrement travailler sur des projets ayant un impact positif sur la société, que ce soit sur le plan écologique ou social.
  Ici, vous trouverez mes projets
  Merci et bonne découverte !.
