@@ -55,7 +55,7 @@ Durant ma formation je verais les competences suivante
 ### framework 
 <div align="center">  
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Vue.js" height="50" />  
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/symfony-original-wordmark.svg" alt="symfony" height="50" />  
+ <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/symfony-original-symfony.svg" alt="symfony" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
