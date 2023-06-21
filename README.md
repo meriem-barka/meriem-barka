@@ -2,15 +2,17 @@
 
 
 
-### <div>I'm Samir, 👾 a full-time developer full-stack 👨‍💻🚀 I'am living on Marseille </div>  
+### <div>Je , 👾 a full-time developer full-stack 👨‍💻🚀 I'am living on Marseille </div>  
 
 
-<div>Currently, I want to continue my studies in coding. I am a motivated and enthusiastic person to learn and improve my skills.</div>
+<div>Bienvenue sur ma page GitHub ! Ici, vous trouverez mes projets et contributions. 
+ Je suis passionné de développement et je crois en la collaboration et le partage des connaissances. 
+ Explorez mes dépôts,contactez-moi pour des opportunités de collaboration. 
+ Merci et bonne découverte !
+</div>
+
 <br/>  
-<div>#OpenToWork</div>
-<br/>  
-<div>- 🌱 I’m currently learning Docker</div>
-<br/>  
+<div>#OpenToWork</div>  
 
 
 ## S-mkds <span color="red"> work in progress </span> 👨‍💻
