@@ -15,6 +15,13 @@ Je suis a la rechereche d'une Alternance pour faire un MSc IT & Business </div>
 </div>
 
 Durant ma formation je verais les competences suivante
+Text Analytics, Piwik, PageSpeed Insights, WebPageTest, tests unitaires, tests système, tests d'acceptation, AR.js et A-Frame sont des concepts et des outils importants dans les domaines de l'analyse de texte, de l'analyse web, du développement logiciel et de la réalité augmentée/virtuelle.
+
+### framework 
+<div align="center">  
+ <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Vue.js" height="50" />  
+ <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/symfony-original-symfony.svg" alt="symfony" height="50" />  
+</div>
 
 ## Languages and Tools 
 <table><tr><td valign="top" width="33%">
@@ -33,8 +40,6 @@ Durant ma formation je verais les competences suivante
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">   
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /> 
@@ -48,14 +53,6 @@ Durant ma formation je verais les competences suivante
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />    
-</div>
-
-</td><td valign="top" width="33%">
-
-### framework 
-<div align="center">  
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Vue.js" height="50" />  
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/symfony-original-symfony.svg" alt="symfony" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
