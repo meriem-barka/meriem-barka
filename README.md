@@ -20,11 +20,19 @@ Durant ma formation, j'apprendrai les compétences suivantes :
     Utilisation de PageSpeed Insights pour évaluer les performances des pages web.
     Utilisation de WebPageTest pour effectuer des tests de performance sur les sites web.
     Réalisation de tests unitaires, tests système et tests d'acceptation.
-    Compréhension des concepts et utilisation d'AR.js et A-Frame dans les domaines de l'analyse de texte, de l'analyse web, du développement logiciel et de la réalité augmentée/virtuelle.
+    Compréhension des concepts et utilisation d'AR.js et A-Frame dans les domaines de l'analyse de texte, 
+    de l'analyse web, du développement logiciel et de la réalité augmentée/virtuelle.
+    
     Utilisation de Kubernetes et Docker pour le déploiement et la gestion de conteneurs.
     Connaissance des frameworks suivants :
         Vue.js
         Angular
+
+    Pour plus d'information je vous invite a aller sur se lien 
+     <a href="https://laplateforme.io/master-it-business/">
+       <img src="full-path-to-image.jpg" alt="github" style="margin-bottom: 5px;" />
+     </a>
+
 
 
 ## Languages and Tools 
@@ -77,22 +85,17 @@ Durant ma formation, j'apprendrai les compétences suivantes :
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/meriem-barka/meriem-barka" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/meriem-barka-1970b5204/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/s.mkds/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+   <a href="https://github.com/meriem-barka/meriem-barka" target="_blank">
+      <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+   </a>
+   <a href="https://www.linkedin.com/in/meriem-barka-1970b5204/" target="_blank">
+      <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+   </a>
 </div>  
-  
 
+  
 <br/>  
 
-
-  
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-mkds&hide_border=true&layout=compact" align="center" style="width: 40%" /></div>  
