@@ -29,9 +29,12 @@ Durant ma formation, j'apprendrai les compétences suivantes :
         Angular
 
     Pour plus d'information je vous invite a aller sur se lien 
-    <div>
-      <a https://laplateforme.io/master-it-business" target="_blank"></a>
-    </div>
+ <div>
+   <a href="https://laplateforme.io/master-it-business" target="_blank">
+     <img src="https://www.google.com/search?client=firefox-b-d&sxsrf=APwXEdfTq3m-NGYab2zBim5itw0-JKtxZA:1687401541703&q=logo+de+la+plateforme&tbm=isch&sa=X&ved=2ahUKEwjng_LL7NX_AhWIdqQEHbmnB_8Q0pQJegQICRAB&biw=1640&bih=813&dpr=2#imgrc=ddfMlFyNSeCtLM" alt="logo ecole d'informatique la plateforme" style="margin-bottom: 5px;" />
+   </a>
+ </div>
+
      
 
 
