@@ -31,6 +31,7 @@ Durant ma formation, j'apprendrai les compétences suivantes :
     Pour plus d'information je vous invite a aller sur se lien 
     <div>
       <a https://laplateforme.io/master-it-business" target="_blank">
+      <p>laplateforme</p>
       </a>
     </div>
      
