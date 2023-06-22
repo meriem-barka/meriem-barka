@@ -1,10 +1,8 @@
 <h1 align="center">Bienvenue sur mon Github👋</h1>
 
 
-
 ### <div> Je m'appelle Meriem , 👾 je suis une développeuse full-stack en herbe 👨‍💻🚀 et basée à Marseille. 
 Je suis a la rechereche d'une Alternance pour faire un MSc IT & Business </div>  
-
 
 <div>
  Passionnée par le développement, j'explore les différentes facettes du développement web pour concevoir des solutions créatives et fonctionnelles. 
@@ -14,14 +12,20 @@ Je suis a la rechereche d'une Alternance pour faire un MSc IT & Business </div>
  Merci et bonne découverte !.
 </div>
 
-Durant ma formation je verais les competences suivante
-Text Analytics, Piwik, PageSpeed Insights, WebPageTest, tests unitaires, tests système, tests d'acceptation, AR.js et A-Frame sont des concepts et des outils importants dans les domaines de l'analyse de texte, de l'analyse web, du développement logiciel et de la réalité augmentée/virtuelle.
 
-### framework 
-<div align="center">  
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Vue.js" height="50" />  
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/symfony-original-symfony.svg" alt="symfony" height="50" />  
-</div>
+Durant ma formation, j'apprendrai les compétences suivantes :
+
+    Utilisation de Text Analytics pour l'analyse de texte.
+    Utilisation de Piwik pour la collecte et l'analyse de données web.
+    Utilisation de PageSpeed Insights pour évaluer les performances des pages web.
+    Utilisation de WebPageTest pour effectuer des tests de performance sur les sites web.
+    Réalisation de tests unitaires, tests système et tests d'acceptation.
+    Compréhension des concepts et utilisation d'AR.js et A-Frame dans les domaines de l'analyse de texte, de l'analyse web, du développement logiciel et de la réalité augmentée/virtuelle.
+    Utilisation de Kubernetes et Docker pour le déploiement et la gestion de conteneurs.
+    Connaissance des frameworks suivants :
+        Vue.js
+        Angular
+
 
 ## Languages and Tools 
 <table><tr><td valign="top" width="33%">
@@ -41,7 +45,8 @@ Text Analytics, Piwik, PageSpeed Insights, WebPageTest, tests unitaires, tests s
 </td><td valign="top" width="33%">
 
 ### Backend  
-<div align="center">   
+<div align="center"> 
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/symfony-original-symfony.svg" alt="symfony" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /> 
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />   
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
@@ -61,7 +66,7 @@ Analytics, Piwik
 PageSpeed insights, WebPageTest
 tests unitaires, tests système, tests d’acceptation
 AR.js, A-Frame
-Kubernetes, Docker
+
 
 ### DevOps  
 <div align="center">  
@@ -77,7 +82,7 @@ Kubernetes, Docker
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/S-mkds" target="_blank">
+<a href="https://github.com/meriem-barka/meriem-barka" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/samir-mokaddem/" target="_blank">
