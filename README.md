@@ -1,72 +1,58 @@
 <h1 align="center">👋 Bonjour, moi c'est Meriem Barka</h1>
 
 <p align="center">
-Développeuse web et mobile, micro-entrepreneure et future alternante en Licence CDA, je transforme des besoins métier en applications performantes et intuitives.
+Développeuse web et mobile, micro-entrepreneure et future alternante en Licence CDA, je conçois et développe des applications modernes orientées utilisateur.
 </p>
 
 ---
 
-## À propos de moi
+## 🧭 À propos de moi
 
-Passionnée par le développement d'applications web et mobiles, je conçois des solutions modernes centrées sur l'expérience utilisateur et la qualité du code.
+Passionnée par le développement web et mobile, je construis des applications avec une approche centrée sur l’ergonomie, la performance et la maintenabilité du code.
 
-Aujourd'hui, j'exerce également en tant que micro-entrepreneure, ce qui me permet de travailler sur des projets concrets, d'accompagner des clients et de développer mon autonomie professionnelle.
+En parallèle, mon activité de micro-entrepreneure me permet de travailler sur des projets concrets et de gagner en autonomie sur la conception et la réalisation de solutions digitales.
 
-Je suis actuellement à la recherche d'une alternance dans le cadre de ma Licence Concepteur Développeur d'Applications (CDA) afin de rejoindre une équipe dynamique et continuer à progresser sur des projets à fort impact.
-
----
-
-## 🚀 Technologies
-
-### Front-end
-
-- React
-- Svelte
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3 / Sass
-
-### Mobile
-
-- React Native
-- Swift
-
-### Back-end
-
-- Node.js
-- Express
-- PHP
-- Symfony
-- MySQL
-- MongoDB
-
-### Outils
-
-- Git & GitHub
-- Docker
-- Linux
-- API REST
+Je recherche actuellement une alternance en Licence Concepteur Développeur d’Applications (CDA) afin de renforcer mon expérience en entreprise et évoluer sur des projets plus complexes.
 
 ---
 
-## 💼 Ce qui m'intéresse
+⚙️ Stack technique
+Front-end
 
-- Développement Web
-- Développement Mobile
-- UX & UI
-- Applications métiers
-- Architecture logicielle
-- Écosystème JavaScript moderne
+React · Svelte · JavaScript · TypeScript · HTML · CSS / Sass
+
+Mobile
+
+React Native · Swift
+
+Back-end
+
+Node.js · Express · PHP · Symfony · REST API
+
+Base de données
+
+MySQL · MongoDB
+
+Outils
+
+Git / GitHub · Docker · Linux
 
 ---
 
-## 🎯 Objectifs actuels
+## 🎯 Ce que je fais
+Développement d’applications web et mobiles
+Création d’API REST
+Projets full-stack
+Applications métiers
+Prototypage et solutions clients (micro-entreprise)
 
-- Développer mon activité indépendante
-- Réaliser des applications web et mobiles robustes
-- Approfondir mes compétences en React Native et Swift
-- Trouver une alternance en Licence CDA
+---
+
+## 🚀 Objectifs
+Développer mon activité en micro-entreprise
+Réaliser des applications complètes et robustes
+Approfondir React Native et les architectures backend
+Intégrer une alternance en Licence CDA
 
 ---
 
