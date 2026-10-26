@@ -47,7 +47,7 @@ En parallèle, j'ai fondé **[Eco Click](https://www.eco-click.fr/)**, ma micro-
     LinkedIn
   </a>
   <span> • </span>
-  <a href="https://www.eco-click.fr/">
+  <a https://www.eco-click.fr/portfolio.html/"> 
     🌐 Mon Site Web / Portfolio
   </a>
 </p>
