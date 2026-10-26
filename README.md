@@ -40,7 +40,7 @@ En parallèle, j'ai fondé **[Eco Click](https://www.eco-click.fr/)**, ma micro-
 
 ---
 
-## 📫 Me contacter & Portfolio
+## 📫 Me contacter & Liens
 
 <p align="center">
   <a href="https://www.linkedin.com/in/meriem-barka-1970b5204/">
@@ -48,7 +48,11 @@ En parallèle, j'ai fondé **[Eco Click](https://www.eco-click.fr/)**, ma micro-
   </a>
   <span> • </span>
   <a href="https://www.eco-click.fr/portfolio.html">
-    🌐 Mon Portfolio (Réalisations)
+    🌐 Portfolio
+  </a>
+  <span> • </span>
+  <a href="https://www.eco-click.fr/">
+    ✉️ Me Contacter (Eco Click)
   </a>
 </p>
 
