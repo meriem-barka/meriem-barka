@@ -51,7 +51,7 @@ En parallèle, j'ai fondé **[Eco Click](https://www.eco-click.fr/)**, ma micro-
     🌐 Portfolio
   </a>
   <span> • </span>
-  <a href="https://www.eco-click.fr/">
+  <a href="https://www.eco-click.fr/index.html#contact"> 
     ✉️ Me Contacter (Eco Click)
   </a>
 </p>
