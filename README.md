@@ -1,58 +1,42 @@
 <h1 align="center">👋 Bonjour, moi c'est Meriem Barka</h1>
 
 <p align="center">
-Développeuse web et mobile, micro-entrepreneure et future alternante en Licence CDA, je conçois et développe des applications modernes orientées utilisateur.
+Développeuse Full-Stack (4 ans d'études + 2 ans d'expérience) en reconversion vers les Systèmes, Réseaux & Cybersécurité.
 </p>
 
 ---
 
 ## 🧭 À propos de moi
 
-Passionnée par le développement web et mobile, je construis des applications avec une approche centrée sur l’ergonomie, la performance et la maintenabilité du code.
+Forte de **4 ans d'études** et de **2 ans d'expérience en entreprise** en tant que développeuse web (React, Node.js, TypeScript), j'oriente aujourd'hui ma carrière vers l'**infrastructure, les réseaux et la cybersécurité**. 
 
-En parallèle, mon activité de micro-entrepreneure me permet de travailler sur des projets concrets et de gagner en autonomie sur la conception et la réalisation de solutions digitales.
+Actuellement en formation à **LiveCampus**, je recherche une **alternance** dans ce domaine. Mon profil hybride — comprendre la couche applicative pour mieux sécuriser les infrastructures — constitue un véritable pont entre le développement et les opérations.
 
-Je recherche actuellement une alternance en Licence Concepteur Développeur d’Applications (CDA) afin de renforcer mon expérience en entreprise et évoluer sur des projets plus complexes.
+En parallèle, j'ai fondé **Eco Click**, ma micro-entreprise[cite: 1], où je conçois et développe des solutions web sur mesure.
 
 ---
 
-⚙️ Stack technique
-Front-end
+## ⚙️ Compétences & Stack technique
 
-React · Svelte · JavaScript · TypeScript · HTML · CSS / Sass
-
-Mobile
-
-React Native · Swift
-
-Back-end
-
-Node.js · Express · PHP · Symfony · REST API
-
-Base de données
-
-MySQL · MongoDB
-
-Outils
-
-Git / GitHub · Docker · Linux
+* **Systèmes, Réseaux & Sécurité :** En cours d'acquisition (LiveCampus), Linux, administration et sécurisation des environnements.
+* **Développement Web & Mobile :** React · Node.js · TypeScript · JavaScript · PHP · Symfony · React Native
+* **Bases de données :** MySQL · MongoDB
+* **Outils & DevOps :** Git / GitHub · Docker · Linux
 
 ---
 
 ## 🎯 Ce que je fais
-Développement d’applications web et mobiles
-Création d’API REST
-Projets full-stack
-Applications métiers
-Prototypage et solutions clients (micro-entreprise)
+* Transition vers l'administration systèmes, réseaux et la cybersécurité
+* Développement d'applications web et mobiles (projets Full-Stack)
+* Création d'API REST et solutions métiers
+* Conception et réalisation de projets clients (via Eco Click)
 
 ---
 
 ## 🚀 Objectifs
-Développer mon activité en micro-entreprise
-Réaliser des applications complètes et robustes
-Approfondir React Native et les architectures backend
-Intégrer une alternance en Licence CDA
+* Décrocher une **alternance en Systèmes, Réseaux & Cybersécurité** 
+* Mettre ma rigueur technique et ma maîtrise du code au service de la sécurité des infrastructures
+* Apprendre continuellement et concevoir des solutions robustes et sécurisées
 
 ---
 
@@ -66,4 +50,4 @@ Intégrer une alternance en Licence CDA
 
 ---
 
-> Transformer des idées en produits utiles, apprendre continuellement et créer des solutions qui ont du sens.
+> Transformer des idées en produits utiles, sécuriser les environnements et créer des solutions qui ont du sens.
