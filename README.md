@@ -12,7 +12,7 @@ Forte de **4 ans d'études** et de **2 ans d'expérience en entreprise** en tant
 
 Actuellement en formation à **LiveCampus**, je recherche une **alternance** dans ce domaine. Mon profil hybride — comprendre la couche applicative pour mieux sécuriser les infrastructures — constitue un véritable pont entre le développement et les opérations.
 
-En parallèle, j'ai fondé **[Eco Click](https://www.eco-click.fr/)**, ma micro-entreprise, dans laquelle je conçois et développe des solutions web sur mesure et durables.
+En parallèle, j'ai fondé **[Eco Click](https://www.eco-click.fr/)**, ma micro-entreprise au sein de laquelle je conçois et développe des solutions web sur mesure[cite: 1].
 
 ---
 
@@ -29,7 +29,7 @@ En parallèle, j'ai fondé **[Eco Click](https://www.eco-click.fr/)**, ma micro-
 * Transition vers l'administration systèmes, réseaux et la cybersécurité
 * Développement d'applications web et mobiles (projets Full-Stack)
 * Création d'API REST et solutions métiers
-* Conception et réalisation de projets clients via [Eco Click](https://www.eco-click.fr/)
+* Conception et réalisation de projets clients
 
 ---
 
@@ -40,7 +40,7 @@ En parallèle, j'ai fondé **[Eco Click](https://www.eco-click.fr/)**, ma micro-
 
 ---
 
-## 📫 Me contacter & Projets
+## 📫 Me contacter & Liens
 
 <p align="center">
   <a href="https://www.linkedin.com/in/meriem-barka-1970b5204/">
@@ -48,7 +48,7 @@ En parallèle, j'ai fondé **[Eco Click](https://www.eco-click.fr/)**, ma micro-
   </a>
   <span> • </span>
   <a href="https://www.eco-click.fr/">
-    www.eco-click.fr
+    🌐 Mon Site Web / Portfolio
   </a>
 </p>
 
